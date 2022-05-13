@@ -1,5 +1,6 @@
 function coordpitch=tracepitch(pitchplan,dip)
-%calcul les coordonnée du pitch par rapport au pendage
+
+%Calcul les coordonnée du pitch par rapport au pendage
 
 y = 0*pitchplan;
 x=cosd(pitchplan); 
