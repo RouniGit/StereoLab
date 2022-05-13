@@ -2,6 +2,9 @@ function [B]=frtoit(B,D)
 %B=azimuth
 %C=pendage
 %D=orientation pendage
+%Permet de passer à une descritpion des azimuths française à italienne
+%Car plus simple à utiliser pour la suite 
+
 j=length(B);
 for i=1:j
     b=B(i);d=D(i);
