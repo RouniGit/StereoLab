@@ -205,7 +205,8 @@ ___________________________________________________________________
 
 Ce bouton vous permet de tracer le plan conjugués du plan des données de la première ligne du tableau éditable.
 
-![image](https://user-images.githubusercontent.com/105498300/168465188-2ee6f267-004e-4bdf-9bda-de8b2dc49941.png)
+![image](https://user-images.githubusercontent.com/105498300/168466076-d01852a7-0b57-4f50-8732-e4b603844d03.png)
+
 
 Vous pourrez ensuite effacer vos tracés, tracer vos données, du tableau “Stereo”, par dessus si ce n’est pas déjà fait, ou vous pouvez à nouveau ajouter un autre plan.
 
