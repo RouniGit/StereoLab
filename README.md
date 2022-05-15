@@ -59,7 +59,7 @@ Pour nous contacter :
 
 Danny DOMINGUES : danny.domingues@outlook.fr 
 
-Anatole TAILLEUR :
+Anatole TAILLEUR : amelie.tailleur@laposte.net
 
 ### III - Guide d’utilisation
 
