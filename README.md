@@ -1,3 +1,3 @@
 # Stereo
 
-![image](https://user-images.githubusercontent.com/105498300/168342085-f7430c2f-0cbf-4a38-b53f-2bccace784d8.png)
+[Manuel d'utilisation  - StereoLab ( Danny DOMINGUES et Anatole TAILLEUR, 2022 ).pdf](https://github.com/RouniGit/StereoLab/files/8694565/Manuel.d.utilisation.-.StereoLab.Danny.DOMINGUES.et.Anatole.TAILLEUR.2022.pdf)
